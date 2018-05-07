@@ -2,6 +2,7 @@
 
 ###Get Started
 `npm install`
+`npm test`
 `npm start`
 
 GET `http://localhost:3030/`
