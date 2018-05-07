@@ -1,6 +1,8 @@
 # Solution validator for N-Queens problem
 
-'npm start'
+###Get Started
+`npm install`
+`npm start`
 
 GET `http://localhost:3030/`
 
@@ -12,3 +14,4 @@ POST `http://localhost:3030/` with example body
 	"BoardScale": 4
 }
 ```
+g
